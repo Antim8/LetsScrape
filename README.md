@@ -4,7 +4,7 @@
 
 ## 1. Overview 
 
- This is the final project of Tim Kapferer and Tim Petersen for the course "Scientific Programming in Python" of the University Osnabrück. Our goal is to compare the range of restaurants in different german cities
+ This is a project by Tim Kapferer and Tim Petersen. Our goal is to compare the range of restaurants in different german cities
  available on Lieferando (www.lieferando.de). To gather the data we use Selenium (https://selenium-python.readthedocs.io) and matplotlib (https://matplotlib.org) 
  to visualise the results. 
 
